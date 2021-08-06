@@ -15,7 +15,7 @@ module.exports = {
         contentTypes: [`product`, `category`, `variant`],
       },
     },
-    `gatsby-plugin-image`,
+   // `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
